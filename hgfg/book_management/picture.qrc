@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>image/asterisk-kwon-q_gjDWf9ths-unsplash.jpg</file>
+        <file>image/janko-ferlic-sfL_QOnmy00-unsplash.jpg</file>
+        <file>image/jon-tyson-pFnvc1Cu6zI-unsplash.jpg</file>
+        <file>image/kenny-eliason-HXjtPt_XRAQ-unsplash.jpg</file>
+        <file>image/patrick-tomasso-Oaqk7qqNh_c-unsplash.jpg</file>
+        <file>image/susan-q-yin-2JIvboGLeho-unsplash.jpg</file>
+        <file>image/tom-hermans-9BoqXzEeQqM-unsplash.jpg</file>
+    </qresource>
+</RCC>
